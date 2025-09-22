@@ -7,14 +7,6 @@ This was a group project from **DCI's WEB Development Course**, which We attende
  Check the filters to sort our destinations according to your wish, whether it is a tropical, snowy, hiking, cycling trip, or just a city tour.
 ### Take our quiz for more personalized offers!
 
-## Contact
-Currently being developed by [Claudinei Bido](https://www.linkedin.com/in/bidoc/) - feel free to contact me!
-
-## Original Team
-- [Bido](https://www.linkedin.com/in/bidoc/)
-- [Alex](https://github.com/hadabr)
-- [Simona](https://github.com/SimonaHriscu)
-- [Yaman](https://github.com/YamanKatmawi)
 
 ## 🚀 Technologies used
 <img title="React 16" src="https://ih1.redbubble.net/image.32576156.9850/sticker,375x360.png" width="100" /><img title="Sass" src="https://vanseodesign.com/blog/wp-content/uploads/2015/09/sass-logo-2.png" width="100" /><img title="Redux 4" src="https://cdn-images-1.medium.com/max/800/1*tOI6UC5EaS2fPItCesI-AQ.png" width="100" />
