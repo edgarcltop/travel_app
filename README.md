@@ -1,4 +1,4 @@
-## About: Travek App
+## About: Travel App
 This was a group project from **DCI's WEB Development Course**, which We attended between 2019 - 2021.
 
 # Find the vacation of your dreams with Dtravel!
