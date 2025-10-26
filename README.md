@@ -28,11 +28,6 @@ Builds the app for production to the `build` folder.<br />
 ### Landing Page
 ![homepage](./doc/img/homepage.png)
 
-### Modal Item View
-![modalview](./doc/img/modalview.png)
-
-### Login Page
-![login](./doc/img/loginpage.png)
 
 ## RoadMap
 ## V5
